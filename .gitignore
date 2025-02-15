@@ -1,1 +1,7 @@
-./ProjectAquarius.sln
+ProjectAquarius.sln
+
+Saved/*
+Binaries/*
+Intermediate/*
+
+Content/StarterContent/*
