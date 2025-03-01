@@ -4,4 +4,9 @@ Saved/*
 Binaries/*
 Intermediate/*
 
+.vs/*
+
 Content/StarterContent/*
+
+.vsconfig
+UpgradeLog.htm
